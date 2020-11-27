@@ -1,3 +1,3 @@
-if true
-  puts "This cide runs!"
+if false
+  puts "This code does not run!"
 end
